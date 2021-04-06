@@ -4,11 +4,8 @@
 # Falcon AskMe
 .idea/
 .vscode
-configuration/
 
-# Change Conf Directories
-smartVizConf/
-cacheConf/
+
 
 #Gunicon log files
 gunicon-server*
